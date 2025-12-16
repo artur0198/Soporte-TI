@@ -1,0 +1,5 @@
+print("cual es tu primer nombre")
+nombre = input()
+print("cuál es tu apellido?")
+apellido = input()
+print("晚上好 " + nombre + " " + apellido + "!")
